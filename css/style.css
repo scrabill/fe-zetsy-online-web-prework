@@ -19,7 +19,7 @@ body {
 
 /* Write all remaining styles here */
 
-/* Typograph */
+/* Typography */
 h1,h2,h3,h4,h5,h6 {
   color: rgb(111,127,122);
 }
@@ -28,4 +28,9 @@ p {
   color: #555555;
   font-size: 1em;
   margin: 0 0 20px 0;
+}
+
+/* */
+img {
+  5px rgb(152,173,166) solid
 }
