@@ -20,6 +20,10 @@ body {
 /* Write all remaining styles here */
 
 /* Typograph */
+h1,h2,h3,h4,h5,h6 {
+  color: rgb(111,127,122)
+}
+
 p {
   color: #555555;
   font-size: 1em;
