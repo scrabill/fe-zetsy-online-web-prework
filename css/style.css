@@ -20,6 +20,12 @@ body {
 
 /* Write all remaining styles here */
 
+/* Sections */
+
+.col-4 {
+  float:left: 
+}
+
 /* Typography */
 h1,h2,h3,h4,h5,h6 {
   color: rgb(111,127,122);
@@ -31,7 +37,7 @@ p {
   margin: 0 0 20px 0;
 }
 
-/* */
+/* Images */
 img {
   border: 5px rgb(152,173,166) solid
 }
